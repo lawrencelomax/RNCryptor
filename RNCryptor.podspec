@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'RNCryptor'
-  s.version = 'RNCryptor-1.1'
+  s.version = '1.1'
   s.summary = 'an easy-to-use, Objective-C interface to the AES functionality of CommonCrypto.'
   s.homepage = 'http://robnapier.net/blog/aes-commoncrypto-564'
   s.license  = {
@@ -16,7 +16,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   s.author = 'Rob Napier', 'robnapier@gmail.com'
   s.source = {
     :git => 'https://github.com/rnapier/RNCryptor.git',
-    :tag => 'RNCryptor-2.0'
+    :tag => 'RNCryptor-1.1'
   }
   s.platform = :ios, '5.0'
   s.source_files = 'RNCryptor/'
